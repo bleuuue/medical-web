@@ -24,7 +24,7 @@
 
 ---
 
-## **[ Role ]**
+## **[ Feature Implementation ]**
 - [x] 글 조회 / 작성 / 수정 / 삭제
 
 ---
