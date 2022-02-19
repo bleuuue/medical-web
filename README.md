@@ -18,9 +18,9 @@
 ## **[ Technical Skills ]**
 
 *   Programming Language
-    *   Java, jsp, Tomcat
+    *   Java, JSP, Tomcat, Oracle
 *   Tools
-    *   Eclipse, Oracle
+    *   Eclipse
 
 ---
 
